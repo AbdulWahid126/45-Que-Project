@@ -1,0 +1,15 @@
+{
+  "name": "45-Que-Project",
+  "version": "1.0.0",
+  "description": "45 Question Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdulWahid",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  }
+}
